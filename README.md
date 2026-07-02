@@ -1,3 +1,4 @@
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/bd44aa09-6729-49b6-95f2-ada9f523d988" />
 
 
 # ▣ ARASAKA FAN CONTROL
