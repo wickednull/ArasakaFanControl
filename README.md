@@ -62,7 +62,7 @@ Authorized Arasaka R&D tool for precision thermal regulation of corporate hardwa
 ## ▣ INSTALLATION
 
 ```
-git clone https://github.com/yourorg/arasaka-fan-control.git  
+git clone https://github.com/wickednull/ArasakaFanControl.git  
 cd arasaka-fan-control  
 chmod +x install.sh  
 ./install.sh
