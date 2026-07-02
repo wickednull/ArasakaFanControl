@@ -1,0 +1,25 @@
+{
+  "name": "OVERKILL",
+  "description": "WARNING: High noise, best cooling",
+  "curve_points": [
+    [
+      35,
+      30
+    ],
+    [
+      45,
+      60
+    ],
+    [
+      55,
+      90
+    ],
+    [
+      65,
+      100
+    ]
+  ],
+  "aggression": 100,
+  "max_speed": 100,
+  "min_temp_target": 45
+}

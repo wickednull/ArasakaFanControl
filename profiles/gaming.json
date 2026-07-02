@@ -1,0 +1,25 @@
+{
+  "name": "Gaming",
+  "description": "Aggressive cooling for gaming sessions",
+  "curve_points": [
+    [
+      40,
+      20
+    ],
+    [
+      50,
+      50
+    ],
+    [
+      60,
+      80
+    ],
+    [
+      70,
+      100
+    ]
+  ],
+  "aggression": 75,
+  "max_speed": 100,
+  "min_temp_target": 45
+}

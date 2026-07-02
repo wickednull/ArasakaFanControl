@@ -1,0 +1,25 @@
+{
+  "name": "Silent Work",
+  "description": "Low noise, moderate cooling",
+  "curve_points": [
+    [
+      40,
+      0
+    ],
+    [
+      55,
+      20
+    ],
+    [
+      70,
+      50
+    ],
+    [
+      80,
+      80
+    ]
+  ],
+  "aggression": 20,
+  "max_speed": 100,
+  "min_temp_target": 45
+}

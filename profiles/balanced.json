@@ -1,0 +1,25 @@
+{
+  "name": "Balanced",
+  "description": "Good balance of noise and cooling",
+  "curve_points": [
+    [
+      40,
+      0
+    ],
+    [
+      50,
+      25
+    ],
+    [
+      60,
+      60
+    ],
+    [
+      75,
+      90
+    ]
+  ],
+  "aggression": 50,
+  "max_speed": 100,
+  "min_temp_target": 45
+}
